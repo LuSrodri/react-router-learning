@@ -2,7 +2,6 @@
 
 .menu {
     display: flex;
-    flex-basis: 250px;
     background-color: #1e90ff;
 }
 
@@ -12,20 +11,25 @@
 
 .menu ul{
     list-style: none;
+    flex: 1;
     padding: 0;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .menu li{
-    display: flex;
+    display: inline-flex;
+    flex-direction: row;
+    width: 25%;
 }
 
 .menu li a{
     flex: 1;
     padding: 10px;
-    margin-bottom: 10px;
     text-decoration: none;
     color: white;
     font-size: 1.5rem;
+    text-align: center;
 }
 
 .menu li a:hover{
