@@ -8,6 +8,14 @@ This project is about <strong>React Router</strong> and the main concepts.
 
 <img src="./finalResult.png">
 
+<h2>Other projects about React:</h2>
+
+Fundamentus React - https://github.com/LuSrodri/Fundamentos-React
+
+React Router - https://github.com/LuSrodri/react-router-learning
+
+React Hooks - https://github.com/LuSrodri/React-hooks-learning
+
 ## Available Scripts
 
 In the project directory, you can run:
